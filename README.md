@@ -1,7 +1,5 @@
 # Guias do IBN
 
-Instruções de trabalho para usar as ferramentas do IBN.
+Instruções de trabalho para usar as ferramentas do IBN, publicadas em https://ibn-coaching.github.io/ibn-guias/
 
-| Guia | Para Que Serve |
-|---|---|
-| [Conectar o Claude ou o ChatGPT ao IBN](IT-CONECTAR-CLAUDE-E-CHATGPT.md) | Passo a passo para consultar o sistema IBN pela conversa no Claude ou no ChatGPT |
+- [Conectar o Claude ou o ChatGPT ao IBN](https://ibn-coaching.github.io/ibn-guias/it-conectar-claude-e-chatgpt.html)
